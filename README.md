@@ -1,7 +1,7 @@
 # Web Scrapping & API Projects
 
 **Autora:** Bianca Peraltilla  
-**Curso:** Data Science con Python (UP, 2025-I)  
+**Curso:** Data Science con Python (UP, 2025-II)  
 
 ---
 
