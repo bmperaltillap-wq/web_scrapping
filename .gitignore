@@ -1,0 +1,24 @@
+# Ignorar credenciales
+.env
+code/.env
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Salidas o resultados generados
+output/*.csv
+output/*.png
